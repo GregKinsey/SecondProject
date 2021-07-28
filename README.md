@@ -1,2 +1,3 @@
-# SecondProject
-Coder Foundry Second Project - Learning Git
+# Second Project
+Coder Foundry Second Project - Learning Git.
+
